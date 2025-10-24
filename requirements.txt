@@ -1,0 +1,5 @@
+jupyter
+statsmodels
+vl-convert-python
+pygam
+altair
