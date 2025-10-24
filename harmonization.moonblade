@@ -1,0 +1,6 @@
+url,
+headline,
+description,
+authors? || author? as authors,
+date_published,
+text? || content? as text

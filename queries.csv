@@ -1,0 +1,6 @@
+name,pattern
+query_climatique,\bclimatique
+query_effet_de_serre,effet\s+de\s+serre|couche\s+d[’']ozone
+query_biodiversite,\bbiodiversit[ée]
+query_transition,transitions?\s+(?:[ée]cologique|[ée]n[ée]rg[ée]tique)
+query_durable,d[ée]veloppement\s+durable|[ée]n[ée]rgies?\s+renouvelables?
